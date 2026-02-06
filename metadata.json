@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Checklist SISU UFG",
+  "description": "Uma aplicação para gerar um checklist personalizado de documentos para a matrícula do SISU na UFG, com base na composição e situação socioeconômica do grupo familiar. Inclui a opção de exportar o checklist como PDF para impressão.",
+  "requestFramePermissions": []
+}
